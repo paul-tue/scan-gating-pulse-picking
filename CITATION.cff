@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Analysis code for: Less light for the same signal: scan gating and pulse picking for two-photon imaging of the retina"
+authors:
+  - family-names: Gläser
+    given-names: Paul
+    affiliation: "Institute for Ophthalmic Research, University of Tübingen"
+version: 1.0.0
+license: MIT
+preferred-citation:
+  type: article
+  status: submitted
+  title: "Less light for the same signal: scan gating and pulse picking for two-photon imaging of the retina"
+  authors:
+    - family-names: Gläser
+      given-names: Paul
+    - family-names: Yang
+      given-names: Qiang
+    - family-names: Bergmann
+      given-names: Cassian
+    - family-names: Xie
+      given-names: Xin
+    - family-names: Zhao
+      given-names: Zhijian
+    - family-names: Schwarz
+      given-names: Christina
